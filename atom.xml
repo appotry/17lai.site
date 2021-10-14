@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>17lai.site</title>
+  <title>一起来玩吧！</title>
   <icon>https://www.gravatar.com/avatar/034f6b6a1d9b52722c151726bcfd5ead</icon>
-  
+  <subtitle>软件驱动世界</subtitle>
   <link href="https://17lai.site/atom.xml" rel="self"/>
   
   <link href="https://17lai.site/"/>
