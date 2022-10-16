@@ -2,7 +2,7 @@
 <search>
   <entry>
     <title>Hello World</title>
-    <url>/2021/10/13/hello-world/</url>
+    <url>/posts/4a17b156/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></tbody></table></figure>
 
@@ -20,7 +20,7 @@
   </entry>
   <entry>
     <title>个人博客</title>
-    <url>/2022/10/16/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</url>
+    <url>/posts/b5ea4f7a/</url>
     <content><![CDATA[<blockquote>
 <p>个人博文简介！更多文章，进入个人博客查看！</p>
 <p><a href="https://blog.17lai.site/">https://blog.17lai.site</a></p>
