@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Hello World</title>
+    <url>/2021/10/13/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></tbody></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></tbody></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></tbody></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></tbody></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>个人博客</title>
+    <url>/2022/10/16/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</url>
+    <content><![CDATA[<blockquote>
+<p>个人博文简介！更多文章，进入个人博客查看！</p>
+<p><a href="https://blog.17lai.site/">https://blog.17lai.site</a></p>
+</blockquote>
+<h2 id="系列教程"><a href="#系列教程" class="headerlink" title="系列教程"></a><strong>系列教程</strong></h2><p><a href="https://blog.17lai.site/atom.xml">全部文章RSS订阅</a></p>
+<h3 id="Hexo系列"><a href="#Hexo系列" class="headerlink" title="Hexo系列"></a><strong>Hexo系列</strong></h3><p><a href="https://blog.17lai.site/categories/hexo/atom.xml"><strong>HexoRSS分类订阅</strong></a></p>
+<p>[三万字教程]基于Hexo的matery主题搭建博客并深度优化完全一站式教程</p>
+<ul>
+<li><a href="https://blog.17lai.site/posts/40300608/">Hexo Docker环境与Hexo基础配置篇</a></li>
+<li><a href="https://blog.17lai.site/posts/4d8a0b22/">hexo博客自定义修改篇</a></li>
+<li><a href="https://blog.17lai.site/posts/9b056c86/">hexo博客网络优化篇</a></li>
+<li><a href="https://blog.17lai.site/posts/5311b619/">hexo博客增强部署篇</a></li>
+<li><a href="https://blog.17lai.site/posts/4a2050e2/">hexo博客个性定制篇</a></li>
+<li><a href="https://blog.17lai.site/posts/84b4059a/">hexo博客常见问题篇</a></li>
+<li><a href="https://blog.17lai.site/posts/253706ff/">hexo博客博文撰写篇之完美笔记大攻略终极完全版</a></li>
+<li><a href="https://blog.17lai.site/posts/cf0f47fd/">Hexo Markdown以及各种插件功能测试</a></li>
+</ul>
+<blockquote>
+<ul>
+<li>markdown 各种其它语法插件，latex公式支持，mermaid图表，plant uml图表，URL卡片，bilibili卡片，github卡片，豆瓣卡片，插入音乐和视频，插入脑图，插入PDF，嵌入iframe</li>
+</ul>
+</blockquote>
+<ul>
+<li><a href="https://blog.17lai.site/posts/217ccdc1/">在 Hexo 博客中插入 ECharts 动态图表</a></li>
+<li><a href="https://blog.17lai.site/posts/546887ac/">使用nodeppt给hexo博客嵌入PPT演示</a></li>
+<li><a href="https://blog.17lai.site/posts/e922fac8/">Vercel部署高级用法教程</a></li>
+</ul>
+<p>教程不是最基础的，但基本可以说，是你目前能找到写的最全面的hexo搭建教程，有更详细全面的请告诉我</p>
+<p>同好们可以来留言交流</p>
+<p>-–</p>
+<p>其它系列文章</p>
+<h3 id="Docker系列"><a href="#Docker系列" class="headerlink" title="Docker系列"></a><strong>Docker系列</strong></h3><p><strong><a href="https://blog.17lai.site/categories/docker/atom.xml">Docker 分类 RSS 订阅</a></strong></p>
+<ul>
+<li><a href="https://blog.17lai.site/posts/42b6a86d/">Docker使用简明教程</a></li>
+<li><a href="https://blog.17lai.site/posts/9912bd5d/">使用jeckett,sonarr,iyuu,qt,emby打造全自动追剧流程</a></li>
+<li><a href="https://blog.17lai.site/posts/1802a8a7/">为知笔记私有化Docker部署</a></li>
+<li><a href="https://blog.17lai.site/posts/593cc323/">Earthly 一个更加强大的镜像构建工具</a></li>
+<li><a href="https://blog.17lai.site/posts/90e60aac/">使用 Shell 脚本实现一个简单 Docker</a></li>
+<li><a href="https://blog.17lai.site/posts/465d2738/">如何使用Traefik V2 在Ubuntu20.04 上面来做 Dockers</a></li>
+<li><a href="https://blog.17lai.site/posts/462f1e5c/">通过IPV6访问Qnap NAS中Docker的服务</a></li>
+</ul>
+<h3 id="笔记系列"><a href="#笔记系列" class="headerlink" title="笔记系列"></a><strong>笔记系列</strong></h3><p><a href="https://blog.17lai.site/categories/note/atom.xml"><strong>Note分类RSS订阅</strong></a></p>
+<ul>
+<li><a href="https://blog.17lai.site/posts/a8535f26/">完美笔记进化论</a></li>
+<li><a href="https://blog.17lai.site/posts/253706ff/">hexo博客博文撰写篇之完美笔记大攻略终极完全版</a></li>
+<li><a href="https://blog.17lai.site/posts/e6086437/">Joplin入门指南&amp;实践方案</a></li>
+<li><a href="https://blog.17lai.site/posts/45f878cd/">替代Evernote免费开源笔记Joplin-网盘同步笔记历史版本Markdown可视化</a></li>
+<li><a href="https://blog.17lai.site/posts/92d347d6/">Joplin 插件以及其Markdown语法。All in One!</a></li>
+<li><a href="https://blog.17lai.site/posts/e3ee7f8b/">Joplin 插件使用推荐</a></li>
+<li><a href="https://blog.17lai.site/posts/1802a8a7/">为知笔记私有化Docker部署</a></li>
+</ul>
+<h3 id="Gitbook使用系列"><a href="#Gitbook使用系列" class="headerlink" title="Gitbook使用系列"></a><strong>Gitbook使用系列</strong></h3><p><a href="https://blog.17lai.site/categories/gitbook/atom.xml">Gitbook分类RSS订阅</a></p>
+<ul>
+<li><a href="https://blog.17lai.site/posts/7fe86002/">GitBook+GitLab撰写发布技术文档-Part1:GitBook篇</a></li>
+<li><a href="https://blog.17lai.site/posts/7790e989/">GitBook+GitLab撰写发布技术文档-Part2:GitLab篇</a></li>
+<li><a href="https://blog.17lai.site/posts/d6bad1e5/">自己动手制作电子书的最佳方式（支持PDF、ePub、mobi等格式）</a></li>
+</ul>
+<h3 id="Gitlab-使用系列"><a href="#Gitlab-使用系列" class="headerlink" title="Gitlab 使用系列"></a><strong>Gitlab 使用系列</strong></h3><p><a href="https://blog.17lai.site/categories/gitlab/atom.xml"><strong>Gitlab RSS 分类订阅</strong></a></p>
+<ul>
+<li><a href="https://blog.17lai.site/posts/acc13b70/"><strong>Gitlab的安装及使用教程完全版</strong></a></li>
+<li><a href="https://blog.17lai.site/posts/29a820b3/">破解Gitlab EE</a></li>
+<li><a href="https://blog.17lai.site/posts/d08eb7b/">Gitlab的安装及使用</a></li>
+<li><a href="https://blog.17lai.site/posts/1879721e/">CI/CD与Git Flow与GitLab</a></li>
+</ul>
+]]></content>
+  </entry>
+</search>
